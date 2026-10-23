@@ -1,0 +1,72 @@
+export const colors = {
+  // Brand Anchors
+  primaryNavy: '#0B1F3A',
+  accentGold: '#C9A227',
+  accentGoldActive: '#B28F20',
+  canvas: '#F7F7F5',
+  cardSurface: '#FFFFFF',
+  mutedNeutral: '#64748B',
+  borderNeutral: '#E2E8F0',
+  statusGreen: '#16A34A',
+  statusGreenLight: 'rgba(22, 163, 74, 0.12)',
+  statusRed: '#DC2626',
+  statusRedLight: 'rgba(220, 38, 38, 0.12)',
+  inactiveTab: '#94A3B8',
+
+  // Full Design Tokens (from specification)
+  surface: '#f9f9f7',
+  surfaceDim: '#dadad8',
+  surfaceBright: '#f9f9f7',
+  surfaceContainerLowest: '#ffffff',
+  surfaceContainerLow: '#f4f4f2',
+  surfaceContainer: '#eeeeec',
+  surfaceContainerHigh: '#e8e8e6',
+  surfaceContainerHighest: '#e2e3e1',
+  onSurface: '#1a1c1b',
+  onSurfaceVariant: '#44474d',
+  inverseSurface: '#2f3130',
+  inverseOnSurface: '#f1f1ef',
+  outline: '#75777e',
+  outlineVariant: '#c4c6ce',
+  surfaceTint: '#4d5f7d',
+
+  primary: '#000615',
+  onPrimary: '#ffffff',
+  primaryContainer: '#0b1f3a',
+  onPrimaryContainer: '#7587a7',
+  inversePrimary: '#b5c7ea',
+
+  secondary: '#755b00',
+  onSecondary: '#ffffff',
+  secondaryContainer: '#fed255',
+  onSecondaryContainer: '#735a00',
+
+  tertiary: '#000801',
+  onTertiary: '#ffffff',
+  tertiaryContainer: '#00250b',
+  onTertiaryContainer: '#009b44',
+
+  error: '#ba1a1a',
+  onError: '#ffffff',
+  errorContainer: '#ffdad6',
+  onErrorContainer: '#93000a',
+
+  primaryFixed: '#d6e3ff',
+  primaryFixedDim: '#b5c7ea',
+  onPrimaryFixed: '#071c36',
+  onPrimaryFixedVariant: '#364764',
+
+  secondaryFixed: '#ffe08e',
+  secondaryFixedDim: '#ecc246',
+  onSecondaryFixed: '#241a00',
+  onSecondaryFixedVariant: '#584400',
+
+  tertiaryFixed: '#7ffc97',
+  tertiaryFixedDim: '#62df7d',
+  onTertiaryFixed: '#002109',
+  onTertiaryFixedVariant: '#005320',
+
+  background: '#f9f9f7',
+  onBackground: '#1a1c1b',
+  surfaceVariant: '#e2e3e1',
+};
